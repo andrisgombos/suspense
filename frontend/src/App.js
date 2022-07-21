@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <Button variant="contained">Suspense</Button>;
+        <Button variant="contained">Suspense Test</Button>;
 
 
         
